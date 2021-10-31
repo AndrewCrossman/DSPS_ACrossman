@@ -1,4 +1,4 @@
-##Improvements:
+## Improvements:
 
 (1) Increase Font Size of All Labels
       - before the text was small and difficult to read
