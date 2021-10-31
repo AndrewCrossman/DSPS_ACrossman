@@ -1,5 +1,5 @@
-![b](before_plot.png)
-![a](after_plot.png)
+![b](before_plot.PNG)
+![a](after_plot.PNG)
 
 ## Improvements:
 
