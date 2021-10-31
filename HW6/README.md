@@ -1,3 +1,6 @@
+[b](before_plot.png)
+[a](after_plot.png)
+
 ## Improvements:
 
 (1) Increase Font Size of All Labels and Tick Markers
