@@ -17,19 +17,11 @@ Assisted with intracluster variance and plotting variance over number of cluster
 ### Connor Mooney:
 Preprocessed the data. Plotted the TSNE projection. Created agglomerative clustering dendrograms and 2D agglomerative clusters plot.
 
-
-## Questions
-1. This homework was about applying various clustering methods to a multidimensional dataset. Most of the algorithms produced similar results.
-2. The hardest part of this homework was trying to understand the high-dimensionality of the dataset, and visualizing how the distances between each point, the intracluster variances, and their projections into a two-dimensional space.
-3. The easiest part of this homework was calculating the pairwise distance matrix, though it took a long time to run.
-4. I learned that the Manhattan Distance can be obtained from the Minkowski metric
-
 ## Summary
 1.**What was this homework about? Relate it to what we discussed in class.**
 
 *The goal of this homework was to apply various clustering methods to a multidimensional dataset. Most of the algorithms produced similar results.*
 
-  
 2.**What was the hardest part of the homework for you?**
 
 *The hardest part of this homework was just trying to understand the high-dimensionality of the dataset, and consequently, visualizing how the distances between each point, the intracluster variances, and their projections into a two-dimensional space*
