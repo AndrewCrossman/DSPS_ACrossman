@@ -7,19 +7,25 @@ Connor Mooney - https://github.com/comooney711 <br />
 ## Contributions
 ### Andrew Crossman:
 Created the outline code for facial recognition autoencoder.
+
 Optimized the learning algorithm for the facial recognition autoencoder.
 
 ### Ben Flaggs:
 Finalized the digits autoencoder.
+
 Finalized the facial recogniztion autoencoder.
 
 ### Nik Korzoun:
 Created the outline for the digits autoencoder.
+
 Finalized the digits autoencoder.
 
 ### Connor Mooney:
 Created the outline for the digits autoencoder. 
+
 Created the outline code for facial recognition.
+
+Finalized the facial recognition autoencoder.
 
 ## Summary
 1.**What was this homework about? Relate it to what we discussed in class.**
